@@ -1,5 +1,5 @@
 # 👋 Hey their! My name is Luca<br/>
-![Yodaluca23's github stats](https://github-readme-stats.vercel.app/api?username=yodaluca23&theme=tokyonight&show_icons=true)<br/>
+![Yodaluca23's github stats](https://github-readme-stats-yodaluca23.vercel.app/api?username=yodaluca23&theme=tokyonight&show_icons=true)<br/>
 ### Some of the above info may not be correct, as it does not count stars and contributions to organizations.<br/>
 
 ## About Me
