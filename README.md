@@ -8,7 +8,5 @@ My username on most of the websites I use is [**yodaluca23**](https://github.com
 Listening Now:
 <br/>
 ![https://spotify-github-profile.vercel.app/api/view.svg?uid=y4rhvf57vokccbuxy68paztss&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=y4rhvf57vokccbuxy68paztss&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=000000&bar_color_cover=true)
-
 <br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=yodaluca23&color=grey)
