@@ -6,6 +6,6 @@ Some of the above (Powered by [GitHub-ReadME-Stats](https://github.com/anuraghaz
 My username on most of the websites I use is [**yodaluca23**](https://github.com/yodaluca23) I am mostly intested in Block-Game modding, Windows Batch files, and IOS App tweaks. I do have a lot of other interests though!<br/>
 <br/>
 What I'm Doing Now:<br/><br/>
-[![Discord Presence](https://lanyard.cnrad.dev/api/405185762292924417?hideStatus=true&hideDiscrim=true&hideBadges=true&idleMessage=:Guess%20I%91m%20Not%20Online%20Right%20Now%2E%2E%2E)](https://github.com/cnrad/lanyard-profile-readme)
+[![Discord Presence](https://lanyard.cnrad.dev/api/405185762292924417?hideStatus=true&hideDiscrim=true&hideBadges=true&idleMessage=Guess%20Im%20Not%20Online%20Right%20Now%2E%2E%2E)](https://github.com/cnrad/lanyard-profile-readme)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yodaluca23&color=grey)
