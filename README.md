@@ -8,5 +8,5 @@ My username on most of the websites I use is [**yodaluca23**](https://github.com
 What I'm Doing On Discord Now:<br/><br/>
 [![Discord Presence](https://lanyard.cnrad.dev/api/405185762292924417?hideStatus=true&hideDiscrim=true&hideBadges=true&idleMessage=Guess%20Im%20Not%20On%20Discord%20Right%20Now%2E%2E%2E)](https://github.com/cnrad/lanyard-profile-readme)<br/><br/>
 What I'm Listening to:<br/><br/>
-![https://spotify-github-profile.vercel.app/api/view.svg?uid=y4rhvf57vokccbuxy68paztss&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=y4rhvf57vokccbuxy68paztss&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)<br/><br/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=y4rhvf57vokccbuxy68paztss&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=y4rhvf57vokccbuxy68paztss&redirect=true)<br/><br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=yodaluca23&color=grey)
