@@ -4,7 +4,7 @@ My username on most of the websites I use is [**yodaluca23**](https://github.com
 
 <h1 align="center">
   <a href="https://github.com/yodaluca23" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api?username=yodaluca23&rank_icon=percentile&custom_title=yodaluca23%27s%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark" alt="GitHub Stats" width="47%">
+    <img src="https://github-stats-extended.vercel.app/api?username=yodaluca23&rank_icon=percentile&custom_title=yodaluca23%27s%20GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats" width="47%">
   </a>
   <a href="https://last.fm/user/yodaluca23" target="_blank">
     <img src="https://lastfm-recently-played.vercel.app/api?user=yodaluca23&bg_color=000000&show_user=header&footer_style=compact_stats&maxage=60" alt="My scrobbles" width="47%">
