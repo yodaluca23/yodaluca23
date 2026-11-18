@@ -1,5 +1,5 @@
 # 👋 Hey there! My name is Luca
-My username on most of the websites I use is [**yodaluca23**](https://github.com/yodaluca23). I am mostly interested in Cryptography, reverse engineering and iOS App tweaks. I do have a lot of other random interests. I have several reverse engineered POC APIs on my [gist profile](https://gist.github.com/yodaluca23). I also like making automation using PowerShell and Python. I have several random projects available here on my GitHub profile, and on my [GreasyFork profile](https://greasyfork.org/en/users/1315976).<br/>
+My username on most of the websites I use is [**yodaluca23**](https://github.com/yodaluca23). I am interested in Cryptography, software development, reverse engineering and app/software modding. I do have a lot of other random interests. I have several reverse engineered POC on my [gist profile](https://gist.github.com/yodaluca23). I also like making automation and scripts using PowerShell and Python. I have several random projects available here on my GitHub profile, and on my [GreasyFork profile](https://greasyfork.org/en/users/1315976).<br/>
 <br/>
 
 <h1 align="center">
